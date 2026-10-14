@@ -1,4 +1,4 @@
-# # Tweet Classification using LSTM and Bidirectional LSTM
+#  Tweet Classification using LSTM and Bidirectional LSTM
 
 This repository contains an end-to-end Deep Learning pipeline built with **Keras** and **TensorFlow** to classify tweets/text data into binary categories. It implements text preprocessing, tokenization, sequence padding, and compares the performance of a standard **LSTM** model against a **Bidirectional LSTM** model.
 
